@@ -1,0 +1,17 @@
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/10/10
+Official: chanuka,chanuka@gmail.com,developer
+Personal: Ranil,rana,ranil@gmail.com,2005/11/25
+Office_friend: sajith,sajith@gmail.com,clerk,2000/07/30
+Personal: Mahinda,Mahi,m@gmail.com,2005/07/30
+Office_friend: lansa,lansa@gmail.com,clerk,2002/07/30
+Office_friend: Ashoka,Ashoka@gmail.com,Waiter,2003/09/17
+Office_friend: Konara,Ashoka@gmail.com,Waiter,2003/07/30
+Office_friend: Ashoka,Ashoka@gmail.com,Waiter,2003/07/25
+Personal: Rohitha,Rox,rohitharox@gmail.com,1992/07/12
+Official: Jay,jay@gmail.com,Debugger
+Personal: Random,rando,random@gmail.com,1982/07/30
+Personal: Annabeth,Anna,anna@gmail.com,2022/07/30
+Personal: Christopher,Nola,chrisnolan@gmail.com,1970/08/02
+Personal: Ranjan,Ranja,ranja@gmail.com,2000/04/31
